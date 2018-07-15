@@ -1,0 +1,386 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="?" group-title="INFORMACOES", =======================
+http://bteamtv1.dnsfor.me:8888/live/BRASIL/BRASIL/484.tsssss
+
+#EXTINF:-1 tvg-logo="?" group-title="INFORMACOES", =======================
+http://bteamtv1.dnsfor.me:8888/live/BRASIL/BRASIL/484.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/st8ULC?" group-title="MISTAO", SBT
+http://mark.jsattv.tk/live/free/free/6.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/ssN6sj?" group-title="MISTAO", RECORD
+http://mark.jsattv.tk/live/free/free/4.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MeEyBg?" group-title="MISTAO", BAND
+http://mark.jsattv.tk/live/free/free/5.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/h8r8iX?" group-title="MISTAO", SPORTV
+http://mark.jsattv.tk/live/free/free/2.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" group-title="MISTAO", ESPN BRASIL
+http://mark.jsattv.tk/live/free/free/11.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/hgLny6?" group-title="MISTAO", ESPN
+http://mark.jsattv.tk/live/free/free/10.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/LqA71n?" group-title="MISTAO", SPORTV 2
+http://mark.jsattv.tk/live/free/free/8.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/x6M4e4?" group-title="MISTAO", SPORTV 3
+http://mark.jsattv.tk/live/free/free/9.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="MISTAO", PREMIERE
+http://mark.jsattv.tk/live/free/free/28.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/vJAL7G?" group-title="MISTAO", COMBATE
+http://mark.jsattv.tk/live/free/free/3.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/PJYpfq?" group-title="MISTAO", ESPORTE INTERATIVO
+http://mark.jsattv.tk/live/free/free/22.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/VQ3Cmg?" group-title="MISTAO", ESPORTE INTERATIVO 2
+http://mark.jsattv.tk/live/free/free/23.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/XAaazj?" group-title="MISTAO", ESPN+
+http://mark.jsattv.tk/live/free/free/12.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/kqiKdy?" group-title="MISTAO", MULTISHOW
+http://mark.jsattv.tk/live/free/free/18.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/8L6nXq?" group-title="MISTAO", VIVA
+http://mark.jsattv.tk/live/free/free/7.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/VAmByX?" group-title="MISTAO", TNT SERIES
+http://mark.jsattv.tk/live/free/free/17.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/frgf9y?" group-title="MISTAO", AXN
+http://mark.jsattv.tk/live/free/free/16.ts
+
+#EXTINF:-1 tvg-logo="https://goo.gl/B59eLy?" group-title="MISTAO", NAT GEO KIDS
+http://mark.jsattv.tk/live/free/free/20.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/SXf8fz?" group-title="MISTAO", NAT GEO KIDS
+http://mark.jsattv.tk/live/free/free/21.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/vYyUSd?" group-title="MISTAO", DISCOVERY KIDS
+http://mark.jsattv.tk/live/free/free/19.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/gTPF6M?" group-title="MISTAO", DISCOVERY CHANNEL
+http://mark.jsattv.tk/live/free/free/15.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/2R2cWN?" group-title="MISTAO", NAT GEO
+http://mark.jsattv.tk/live/free/free/14.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wWhZo2?" group-title="MISTAO", NAT GEO WILD
+http://mark.jsattv.tk/live/free/free/24.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/wm9SPd?" group-title="TV ABERTA SD", GLOBO SP
+http://23.237.22.153:8080/live/App/daagrd2HwP/51.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" group-title="ESPORTES SD", ESPN BRASIL
+http://23.237.22.153:8080/live/App/daagrd2HwP/36.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/yfNU1t?" group-title="ESPORTES SD", FOX SPORTS
+http://23.237.22.153:8080/live/App/daagrd2HwP/44.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/hgLny6?" group-title="ESPORTES SD", ESPN
+http://23.237.22.153:8080/live/App/daagrd2HwP/37.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="ESPORTES SD", PREMIERE
+http://23.237.22.153:8080/live/App/daagrd2HwP/83.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/vJAL7G?" group-title="ESPORTES SD", COMBATE
+http://23.237.22.153:8080/live/App/daagrd2HwP/19.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/FBxaWZ?" group-title="ESPORTES SD", FOX SPORTS 2
+http://23.237.22.153:8080/live/App/daagrd2HwP/43.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/PJYpfq?" group-title="ESPORTES SD", ESPORTE INTERATIVO
+http://23.237.22.153:8080/live/App/daagrd2HwP/38.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/VQ3Cmg?" group-title="ESPORTES SD", ESPORTE INTERATIVO 2
+http://23.237.22.153:8080/live/App/daagrd2HwP/33.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/XAaazj?" group-title="ESPORTES SD", ESPN+
+http://23.237.22.153:8080/live/App/daagrd2HwP/35.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERES SD", PREMIERE 1
+http://23.237.22.153:8080/live/App/daagrd2HwP/83.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERES SD", PREMIERE 2
+http://23.237.22.153:8080/live/App/daagrd2HwP/84.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERES SD", PREMIERE 3
+http://23.237.22.153:8080/live/App/daagrd2HwP/85.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERES SD", PREMIERE 4
+http://23.237.22.153:8080/live/App/daagrd2HwP/86.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERES SD", PREMIERE 6
+http://23.237.22.153:8080/live/App/daagrd2HwP/88.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERES SD", PREMIERE 7
+http://23.237.22.153:8080/live/App/daagrd2HwP/89.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERES SD", PREMIERE 8
+http://23.237.22.153:8080/live/App/daagrd2HwP/90.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/pyCwWp?" group-title="FILMES SD", HBO
+http://23.237.22.153:8080/live/App/daagrd2HwP/59.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/a5CViF?" group-title="FILMES SD", HBO 2
+http://23.237.22.153:8080/live/App/daagrd2HwP/55.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/xCrqUL?" group-title="FILMES SD", HBO FAMILY
+http://23.237.22.153:8080/live/App/daagrd2HwP/56.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/pbfKXJ?" group-title="FILMES SD", HBO PLUS
+http://23.237.22.153:8080/live/App/daagrd2HwP/58.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/okgTGm?" group-title="FILMES SD", HBO PLUS E
+http://23.237.22.153:8080/live/App/daagrd2HwP/57.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/DkNyyb?" group-title="FILMES SD", HBO SIGNATURE
+http://23.237.22.153:8080/live/App/daagrd2HwP/60.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/bxF7Bf?" group-title="FILMES SD", CINEMAX
+http://23.237.22.153:8080/live/App/daagrd2HwP/16.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Qm5qdH?" group-title="FILMES SD", CANAL BRASIL
+http://23.237.22.153:8080/live/App/daagrd2HwP/13.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/6fA3eQ?" group-title="SERIADOS SD", FX
+http://23.237.22.153:8080/live/App/daagrd2HwP/46.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/TwrwsT?" group-title="SERIADOS SD", COMEDY CENTRAL
+http://23.237.22.153:8080/live/App/daagrd2HwP/20.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MQ2yHo?" group-title="SERIADOS SD", INVESTIGA��O DISCOVERY
+http://23.237.22.153:8080/live/App/daagrd2HwP/62.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/vP41UJ?" group-title="SERIADOS SD", FOX LIFE
+http://23.237.22.153:8080/live/App/daagrd2HwP/41.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/n2HzWj?" group-title="SERIADOS SD", LIFETIME
+http://23.237.22.153:8080/live/App/daagrd2HwP/63.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/sQWnCW?" group-title="VARIEDADES SD", GNT
+http://23.237.22.153:8080/live/App/daagrd2HwP/53.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/8L6nXq?" group-title="VARIEDADES SD", VIVA
+http://23.237.22.153:8080/live/App/daagrd2HwP/8.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/C2WoJ2?" group-title="VARIEDADES SD", FISH TV
+http://23.237.22.153:8080/live/App/daagrd2HwP/39.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/txazxf?" group-title="VARIEDADES SD", OFF
+http://23.237.22.153:8080/live/App/daagrd2HwP/2.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/CiRABW?" group-title="VARIEDADES SD", HOME & HEALTH
+http://23.237.22.153:8080/live/App/daagrd2HwP/25.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/KfjKA3?" group-title="VARIEDADES SD", FOOD NETWORK
+http://23.237.22.153:8080/live/App/daagrd2HwP/40.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/J2exU1?" group-title="VARIEDADES SD", E! Entertainment
+http://23.237.22.153:8080/live/App/daagrd2HwP/32.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/ffr7uo?" group-title="VARIEDADES SD", 98 LIVE
+http://98live.com.br/livestream
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5UdNqU?" group-title="INFANTIL SD", CARTOON NETWORK
+http://23.237.22.153:8080/live/App/daagrd2HwP/15.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Pzpj6p?" group-title="INFANTIL SD", DISNEY XD
+http://23.237.22.153:8080/live/App/daagrd2HwP/31.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/FS8zfU?" group-title="INFANTIL SD", DISNEY CHANNEL
+http://23.237.22.153:8080/live/App/daagrd2HwP/29.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/QCKA29?" group-title="INFANTIL SD", DISNEY JR
+http://23.237.22.153:8080/live/App/daagrd2HwP/30.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/vYyUSd?" group-title="INFANTIL SD", DISCOVERY KIDS
+http://23.237.22.153:8080/live/App/daagrd2HwP/26.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Lpi7qx?" group-title="INFANTIL SD", GLOOB
+http://23.237.22.153:8080/live/App/daagrd2HwP/52.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/JysXoS?" group-title="INFANTIL SD", ZOOMOO
+http://23.237.22.153:8080/live/App/daagrd2HwP/7.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/gTPF6M?" group-title="DOCUMENT�RIOS SD", DISCOVERY CHANNEL
+http://23.237.22.153:8080/live/App/daagrd2HwP/23.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/YHF544?" group-title="DOCUMENT�RIOS SD", DISCOVERY TURBO
+http://23.237.22.153:8080/live/App/daagrd2HwP/28.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/TnGPRK?" group-title="DOCUMENT�RIOS SD", H2
+http://23.237.22.153:8080/live/App/daagrd2HwP/54.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/WQwYqo?" group-title="DOCUMENT�RIOS SD", DISCOVERY ID
+http://23.237.22.153:8080/live/App/daagrd2HwP/62.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/jnSNy8?" group-title="DOCUMENT�RIOS SD", DISCOVERY SCIENCE
+http://23.237.22.153:8080/live/App/daagrd2HwP/27.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/TFnReB?" group-title="JORNALISMO SD", GLOBO NEWS
+http://23.237.22.153:8080/live/App/daagrd2HwP/48.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-logo="http://goo.gl/ffr7uo?" group-title="VARIEDADES HD", 98 LIVE
+http://98live.com.br/livestream
+
+#EXTINF:-1 tvg-logo="http://goo.gl/h8r8iX?" group-title="ESPORTES HD2", SPORTV
+https://world.pornthe.top/hls/sportv1.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" group-title="ESPORTES HD2", ESPN BRASIL
+https://world.pornthe.top/hls/espnbrasil.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="ESPORTES HD2", FOX SPORTS
+https://world.pornthe.top/hls/foxsports1.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/hgLny6?" group-title="ESPORTES HD2", ESPN
+https://world.pornthe.top/hls/espn.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/LqA71n?" group-title="ESPORTES HD2", SPORTV 2
+https://world.pornthe.top/hls/sportv2.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/x6M4e4?" group-title="ESPORTES HD2", SPORTV 3
+https://world.pornthe.top/hls/sportv3.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="ESPORTES HD2", PREMIERE
+https://world.pornthe.top/hls/premiereclubes.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="ESPORTES HD2", COMBATE
+https://world.pornthe.top/hls/combate.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/FBxaWZ?" group-title="ESPORTES HD2", FOX SPORTS 2
+https://world.pornthe.top/hls/foxsports2.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/hfvcjk?" group-title="ESPORTES HD2", BAND SPORTS
+https://world.pornthe.top/hls/bandsports.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="ESPORTES HD2", ESPORTE INTERATIVO
+https://world.pornthe.top/hls/esporteinterativo1.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/VQ3Cmg?" group-title="ESPORTES HD2", ESPORTE INTERATIVO 2
+https://world.pornthe.top/hls/esporteinterativo2.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/XAaazj?" group-title="ESPORTES HD2", ESPN+
+https://world.pornthe.top/hls/espnmais.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 1
+https://world.pornthe.top/hls/premiereclubes.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 2
+https://world.pornthe.top/hls/premiere2.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 3
+https://world.pornthe.top/hls/premiere3.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 4
+https://world.pornthe.top/hls/premiere4.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 5
+https://world.pornthe.top/hls/premiere5.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 6
+https://world.pornthe.top/hls/premiere6.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 7
+https://world.pornthe.top/hls/premiere7.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 8
+https://world.pornthe.top/hls/premiere8.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/MczmKF?" group-title="PREMIERE HD2", PREMIERE 9
+https://world.pornthe.top/hls/premiere9.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/bxF7Bf?" group-title="FILMES HD2", CINEMAX
+https://world.pornthe.top/hls/cinemax.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/DWFBdm?" group-title="SERIADOS HD2", FOX
+https://world.pornthe.top/hls/fox.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/AXSz8h?" group-title="SERIADOS HD2", FOX PREMIUM 1
+https://world.pornthe.top/hls/foxpremium1.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/crjtqt?" group-title="SERIADOS HD2", FOX PREMIUM 2
+https://world.pornthe.top/hls/foxpremium2.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/frgf9y?" group-title="SERIADOS HD2", AXN
+https://world.pornthe.top/hls/axn.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/GG9aQV?" group-title="SERIADOS HD2", AMC
+https://world.pornthe.top/hls/amc.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/SXf8fz?" group-title="INFANTIL HD2", NAT GEO KIDS
+https://world.pornthe.top/hls/natgeokids.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5UdNqU?" group-title="INFANTIL HD2", CARTOON NETWORK
+https://world.pornthe.top/hls/cartoon.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/kneR6q?" group-title="INFANTIL HD2", NICK
+https://world.pornthe.top/hls/nick.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Pzpj6p?" group-title="INFANTIL HD2", DISNEY XD
+https://world.pornthe.top/hls/disneyxd.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/FS8zfU?" group-title="INFANTIL HD2", DISNEY CHANNEL
+https://world.pornthe.top/hls/disney.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/QCKA29?" group-title="INFANTIL HD2", DISNEY JR
+https://world.pornthe.top/hls/disneyjunior.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/vYyUSd?" group-title="INFANTIL HD2", DISCOVERY KIDS
+https://world.pornthe.top/hls/discoverykids.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Lpi7qx?" group-title="INFANTIL HD2", GLOOB
+https://world.pornthe.top/hls/gloob.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/LFSsjv?" group-title="INFANTIL HD2", NICK JR
+https://world.pornthe.top/hls/nickjr.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="http://goo.gl/HPChvB?" group-title="INFANTIL HD2", BOOMERANG
+https://world.pornthe.top/hls/boomerang.m3u8|Referer=http://redecanais.link/
+
+#EXTINF:-1 tvg-logo="?" group-title="INFORMACOES", =======================
+http://bteamtv1.dnsfor.me:8888/live/BRASIL/BRASIL/484.tsssss
+
+#EXTINF:-1 tvg-logo="?" group-title="INFORMACOES", =======================
+http://bteamtv1.dnsfor.me:8888/live/BRASIL/BRASIL/484.ts
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="FILMES E SÉRIES" ,TELECINE PREMIUM
+http://23.237.22.153:8080/live/App/daagrd2HwP/116.ts?|User-Agent=android
+#EXTINF:-1 tvg-id="TELECINE ACTION"  tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="FILMES E SÉRIES" ,TELECINE ACTION 
+http://23.237.22.153:8080/live/App/daagrd2HwP/112.ts?|User-Agent=android
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="FILMES E SÉRIES" ,TELECINE PIPOCA 
+http://23.237.22.153:8080/live/App/daagrd2HwP/115.ts?|User-Agent=android
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="FILMES E SÉRIES" ,TELECINE FUN
+http://23.237.22.153:8080/live/App/daagrd2HwP/114.ts?|User-Agent=android
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="FILMES E SÉRIES" ,TELECINE TOUCH
+http://23.237.22.153:8080/live/App/daagrd2HwP/117.ts?|User-Agent=android
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="FILMES E SÉRIES" ,TELECINE CULT
+http://23.237.22.153:8080/live/App/daagrd2HwP/113.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="FILMES E SÉRIES", MEGAPIX 
+http://23.237.22.153:8080/live/App/daagrd2HwP/69.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="MAX" tvg-logo="https://i.imgur.com/1vESU7I.png?1" group-title="FILMES E SÉRIES", MAX 
+http://23.237.22.153:8080/live/App/daagrd2HwP/67.ts?|User-Agent=android
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="FILMES E SÉRIES",MAX PRIME
+http://23.237.22.153:8080/live/App/daagrd2HwP/66.ts?|User-Agent=android
+#EXTINF:-1 tvg-id="MAX PRIME *E" tvg-logo="http://i.imgur.com/rLHHuFg.png" group-title="FILMES E SÉRIES",MAX PRIME *E
+http://23.237.22.153:8080/live/App/daagrd2HwP/65.ts?|User-Agent=android
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://i.imgur.com/tcr0CGl.png" group-title="FILMES E SÉRIES", MAX UP
+http://23.237.22.153:8080/live/App/daagrd2HwP/68.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="DOCUMENTARIOS", ANIMAL PLANET
+http://23.237.22.153:8080/live/App/daagrd2HwP/154.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="SPACE"  tvg-logo="https://i.imgur.com/n7yFJM5.png" group-title="FILMES E SÉRIES", SPACE
+http://23.237.22.153:8080/live/App/daagrd2HwP/104.ts?|User-Agent=android
